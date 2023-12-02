@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko-KR"
 title                    : "Youngsdog's Development Log"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "small positive action"
 name                     : "Youngsdog"
 description              : "Youngsdog의 블로그 입니다"
 url                      : "https://Youngsdog.github.io"
