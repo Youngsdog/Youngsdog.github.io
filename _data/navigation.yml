@@ -11,6 +11,12 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
+side:
+  - title: "Software"
+    url: /categories/software/ 
+  - title: "Firmware"
+    url: /categories/firmware/
+
 counts:
   - title: "카테고리"
     use: true
