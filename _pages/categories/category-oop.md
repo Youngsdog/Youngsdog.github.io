@@ -6,6 +6,6 @@ author_profile: true
 ---
 
 ***
-
+<!-- 공백 문자 포함시 site.categories['youngsdog test'] -->
 {% assign posts = site.categories.oop %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
