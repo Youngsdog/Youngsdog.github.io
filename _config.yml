@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "Youngsdog's Development Log"
 title_separator          : "|"
-subtitle                 : "Study Blog"
+subtitle                 : "개발 공부 블로그"
 name                     : "Youngsdog"
-description              : "Youngsdog의 블로그 입니다"
+description              : "Youngsdog의 개발 공부 블로그 입니다"
 url                      : "https://Youngsdog.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Youngsdog"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "임베디드 소프트웨어에 관심이 많은 주니어 개발자입니다. 반갑습니다."
+  bio              : "임베디드 소프트웨어 주니어 개발자"
   location         : "Korea, Republic of"
   email            :
   links:
