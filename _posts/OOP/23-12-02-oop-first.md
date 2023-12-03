@@ -4,8 +4,7 @@ categories:
     - oop
 toc: true
 author_profile: false
-sidebar:
-    nav: "counts"
+
 ---
 # 1. 소프트웨어
 설명
