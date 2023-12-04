@@ -3,6 +3,7 @@ title: "객체지향 프로그래밍"
 layout: archive
 permalink: categories/oop
 author_profile: true
+sidebar_main: true
 ---
 
 ***
